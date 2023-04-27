@@ -1,0 +1,7 @@
+Aluno: Christian De Sousa Araújo
+Matricula: 2021111510004
+
+Está empresa está relacionada a vendas em atacado de produtos terceirizados, e nela
+estão composta pelos motoristas dos veículos da empresa, onde será acompanhado
+por gerentes de negócios, que fará todo o trabalho de venda dos produtos...
+Os gerentes também são responsavéis pela contratação dos motoristas.
